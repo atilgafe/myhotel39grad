@@ -36,9 +36,9 @@ header {
 }
 
 #content {
-	width: 70% !important;
+	width: 75% !important;
 	height: 520px;
-	background-color: #A4A4A4;
+	background-color: #2581EE;
 	float: right;
 	margin-bottom: 20px;
 	margin-top: 20px;
@@ -69,7 +69,9 @@ footer {
 	clear: both;
 	width: 100%;
 	height: 50px;
-	background-color: #FFFFFF;
+	background-color: #0066CC;
+	color:white;
+	font-weight: bold;
 }
 
 #hotel {
@@ -97,7 +99,7 @@ footer {
 #kontakt:link, #kontakt:visited {
 	background-color: #0066CC;
 	color: white;
-	padding: 12px 20px;
+	padding: 5px;
 	text-align: center;
 	display: inline-block;
 }
@@ -105,6 +107,15 @@ footer {
 #kontakt:hover, #kontakt:active {
 	background-color: white !important;
 	color: black;
+}
+
+#aktuelles {
+	background-color: #2581ee;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	font-weight: bold;
+	color: white;
 }
 
 @media screen and (min-width: 500px) and (max-with: 799px) {

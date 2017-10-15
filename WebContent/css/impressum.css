@@ -7,3 +7,12 @@
 	margin-left: 7%;
 	
 }
+
+#contentImpressum{
+	width: 100% !important;
+	height: 520px;
+	background-color: #2581EE;
+	float: right;
+	margin-bottom: 20px;
+	margin-top: 20px;
+}
